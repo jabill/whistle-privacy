@@ -1,4 +1,4 @@
-# Whistle – Anywhere, Anytime
+# Whistle – Anytime, Anywhere
 
 Public site for the Whistle app by Jacked Arts.
 
